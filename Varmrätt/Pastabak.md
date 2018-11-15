@@ -8,7 +8,7 @@
 * 2 röda chilifrukter (finhackade)
 * 2 tomater
 * 2 tsk oregano
-* 3 dl mjölk
+* 3 dl mjölksubsititut (kokosmjölk, sojamjölk, etc)
 * 2 matskedar mjöl
 
 ## Metod
