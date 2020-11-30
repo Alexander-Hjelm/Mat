@@ -15,6 +15,8 @@ För att nån landsortsjävel var så okreativ med frukosten att han bara åt ma
 * Margarin
 * Jordnötssmör
 * Hummus
+* Tomatpuré
+* Majonäs
 
 ## Implementation (Grundläggande)
 
