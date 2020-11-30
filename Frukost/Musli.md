@@ -19,3 +19,4 @@
 
 * Sojamjölk
 * Kokosmjölk
+* Havremjölk
