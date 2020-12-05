@@ -16,7 +16,9 @@
 * Tomatskivor
 * Isbergssallad
 * Pommes strips
-* Ägg  
+* Ägg
+* Banan
+* Ananas
 * Hackade mandlar
 * Spenat
 * Rivna morötter
@@ -27,6 +29,7 @@
 ## Kryddor (Valfritt)
 * Chilipeppar
 * Oregano
+* Curry
 
 Allting står på kitförpackningen. Behöver du ytterligare instruktioner borde du fan tvångskastreras.
 Eller iofs en grej. Använder du POP!-pizzakit så preparera köket med en plexiglasvägg för skiten kommer explodera i ansiktet på dig när du öppnar förpackningen. Har själv ett stort fett ärr tvärs över ansiktet, men jag brukar säga att jag fick det av en bowie-kniv.
