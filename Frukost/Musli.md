@@ -14,6 +14,9 @@
 * Sesamfrön
 * Mandelnötter (hackade)
 * Riven kokos
+* Russin
+* Torkade bär
+* Plommon (hackade)
 
 ## Mjölksubstitut
 
