@@ -1,13 +1,6 @@
 # Mat
 
-En gaffel av [Olof Sjödin's](https://github.com/medik) receptsamling. Här
-finner ni mina favvorecept.
-
-Värt att veta är att alla recept i denna samling måste vara:
-* Vegetariska, dock inte veganska
-* skafferi-vänliga, dvs alla ingredienser står sig i minst två dagar utan att
-  behöva lagras i kyl eller frys
-* Sockerfria (<5% socker)
+En gaffel av [Olof Sjödin's](https://github.com/medik) receptsamling. Här finner ni mina vegetariska favvorecept.
 
 ## Orginalsammanfattning
 
