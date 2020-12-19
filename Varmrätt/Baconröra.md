@@ -4,9 +4,11 @@
 
 ## Innehållsbord
 
+(4 portioner)
+
 - 400g bacon (vegansk)
 - 2 dl creme fraiche
-- 1 lök
+- 2 lökare
 - olja
 - makaroner
 - salt, peppar
