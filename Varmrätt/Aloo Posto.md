@@ -1,6 +1,6 @@
 # Aloo Posto
 
-> Aloo-posta-mitt-arsle-till-jultomten-och-projektilskit-i-hans-ansikte
+> Aloo-posta-mitt-arsle-till-jultomten-och-ge-honom-en-smäll-på-kinden
 
 ## Innehåll
 
