@@ -4,6 +4,13 @@
 ## Botten
 * ICA pizzakit, valfri storlek och smak. Sås medföljer
 
+### Egen botten (kräver att man kör new game+, inga casuals)
+* 4 dl vetemjöl
+* 20g jäst
+* 2 dl vatten
+* 0.25 dl olja
+* salt
+
 ## Topping (Välj och vraka)
 * Ost (Färdigriven pizzaost eller mozarella)
 * Avocado
