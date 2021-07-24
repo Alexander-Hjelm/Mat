@@ -10,6 +10,7 @@
 * 2 dl vatten
 * 0.25 dl olja
 * salt
+* socker
 
 ## Topping (Välj och vraka)
 * Ost (Färdigriven pizzaost eller mozarella)
@@ -32,6 +33,8 @@
 * Ingefära
 * Potatis
 * Majonäs
+* Coleman's (TM) senap
+* Lollylicious (TM) Mega Lolly
 
 ## Kryddor (Valfritt)
 * Chilipeppar
